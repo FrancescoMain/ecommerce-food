@@ -28,8 +28,8 @@ h6 {
 }
 
 a {
-  text-decoration: none;
-  color: unset;
+  text-decoration: none !important;
+  color: #212245 !important;
 }
 
 h1,
@@ -42,3 +42,4 @@ h2 {
 section {
   padding: 60px 0px;
 }
+
